@@ -9,26 +9,8 @@ Description:
 
 The dataset in file E-Commerce Dashboard dataset.xlsx contains sales data for different product categories. The following are the features in the dataset:
 
-Order ID - Unique Order ID of a product
-Order Date - Order Placement Date
-Ship Date - Shipment Date of the placed order
-Aging -	Used to Create Histogram Bin
-Ship Mode -	Shipment mode of placed order
-Product Category -	Product Category
-Product	- Name of the Product
-Sales - Sales Amount
-Quantity -	The amount or number of a material
-Discount -	A deduction from the usual cost of something
-Profit -	A financial advantage or benefit
-Shipping Cost -	The amount required to ship the placed order
-Order - Priority	Precedence of placed order
-Customer ID -	Unique Customer ID
-Customer Name -	Name of the Customer
-City	- Unique City Name
-State	- Unique State Name
-Country	- Unique Country Name
-Region	- Especially the part of a country
-Months	- The month of placing the order
+![image](https://user-images.githubusercontent.com/108510098/215343674-fbe9af04-6fbe-4129-b362-fd2345c25ba0.png)
+
 The following project tasks are required to be performed in Excel:
 
 Use the saved Sample E-Commerce database
